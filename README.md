@@ -152,5 +152,5 @@ Fe).
 ---
 
 ### INGLES
-Español - Nativo
-Inglés - Básico
+* Español - Nativo
+* Inglés - Básico
