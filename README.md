@@ -127,6 +127,8 @@ Analista en sistemas informáticos.
 Bachiller en producción de Bienes y Servicios.
 ```
 
+---
+
 ### CAPACITACIÓN COMPLEMENTARIA
 **Diseño y programación WEB:** 2009 - Organizado por la Asociación Provincial de profesionales en
 informática (APPEI)
