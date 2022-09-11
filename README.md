@@ -1,22 +1,11 @@
 ### PERFIL PROFESIONAL
 
-Soy profesional en el área informática con más de **10 años de
-experiencia** vinculada al sector de las TIC. Mayormente como Líder
-de Implementaciones.
-He adquirido experiencia sobre **análisis y desarrollo web** como
-parte del equipo de desarrollo en ANCA S.R.L durante 3 años,
-especializándome en backend con PHP y Node.JS, y 6 meses
-desarrollando soluciones web junto a DataLab Center, una
-incubadora de proyectos y fábrica de software radicada en Ecuador.
+Desde hace aproximadamente 11 años comparto mi trabajo y pasión en relación al mundo IT. Inicie mis primeros años, como implementador de sistemas en el territorio Argentino.
+Complete mi formación como Analista de Sistemas Informáticos y con el tiempo he adquirido experiencia como software developer, mayormente backend y en menor medida frontend. También realice actividades como help desk, análisis funcional, testing, ETL, coordinación de implementaciones y capacitaciones.
+Me considero una persona responsable, curiosa, perseverante, autodidacta y creativa. Prefiero trabajar de forma organizada y proactiva.
+Prefiero trabajar en equipo para enriquecer mi conocimiento y experiencia. Como también mantener mi motivación con nuevos desafíos. 
+Me gusta estar en constante aprendizaje y experimentación. 
 
-Complete mi formación como **Analista de Sistemas Informáticos**.
-Cuento con un perfil orientado al ámbito mas técnico de mi
-profesión y
-me destaco por mi **responsabilidad, creatividad,
-organización y proactividad**.
-Prefiero trabajar en equipo para enriquecer mi conocimiento y
-experiencia. Como también mantener mi motivación con nuevos
-desafíos.
 
 ### INFORMACION PERSONAL
 
@@ -26,9 +15,9 @@ public function getPersonalInfo($name)
 
   if($name == "Luciano Delfino")
   {
-    echo "32 años";
+    echo "34 años";
     echo "luciano.dlf@gmail.com";
-    echo "+54 342 6151055";
+    echo "+54 9 342 5133628";
   }
   
 }
@@ -38,78 +27,92 @@ public function getPersonalInfo($name)
 ---
 
 ### CONOCIMIENTOS Y HABILIDADES
-* HTML, CSS, PHP,
-JavaScript, Node.js, JAVA.
-* MVC, CodeIgniter, Laravel,
-Express, Bootstrap,
-W3.CSS, JQuery
-* WebSocket (Ratchet)
-* Composer, npm
-* Apache Server, Nginx
-* SQL, MySQL, PostgreSQL,
-SQLite, Firebird, MongoDB.
-* phpMyAdmin, MySQL
-Workbench, pgadmin3.
-* VirtualBox, VMWare.
-TightVNC, TeamViewer,
-LogMeIn.
-* Linux, Windows, MacOS
-* Git
-* Talend Open Studio (ETL)
-* Armado, configuración y
-reparación de PC
-(Hardware y Software)
+* HTML5, CSS, PHP, JavaScript, NodeJS, Java, Javascript.
+* Frameworks Codeigniter, Express, Laravel, Bootstrap, W3.CSS
+* SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite, Firebird, MongoDB.
+* Git.
+* Virtualización.
+* SO Windows, Linux, MacOS + Paquete Office
+* Armado, configuración y reparación de PC.
+* Instalación y configuración de servidores Web Apache, NodeJS, Nginx
+* Soporte técnico.
+* Capacitaciones.
+* Análisis funcional.
+* Gestión y coordinación de implementaciones.
 
 ---
 
 ### TRAYECTORIA LABORAL
 
-#### DATALAB CENTER (Ecuador)
+#### FREELANCE SOFTWARE DEVELOPER
 ```php
-Equipo de desarrollo - Back end Developer
+2021 - actualidad. Santa Fe, Santa Fe, Argentina
++ Diseño, desarrollo e implementación de sistemas complementario para gestión comercial y de recursos humanos con tecnologías web.
++ Mantenimiento y modificaciones de interfaz gráfica de sistemas embebidos.
+```
+
+#### DATALAB CENTER
+```php
+Equipo de desarrollo - Full Stack Developer
 http://datalabcenter.com
-2019- 2020
-+ Análisis, diseño y programación de plataformas web (enfocado en Back
-End, framework CI).
-+ Configuración de servidores y despliegue de plataformas web.
+2020. Quito, Pichincha, Ecuador
+
++ Análisis, diseño y programación de plataformas web.
 + Implementación de soluciones para mejorar la organización de
-proyectos de software y el ciclo de vida de desarrollo. (gitea,
-automatizacion de despliegues con git hooks, refactoring de proyectos)
+proyectos y el ciclo de vida de desarrollo
++ Refactoring de proyectos
 ```
 
 #### ANCA S.R.L
 ```php
-Departamento de informática - Programador y Soporte Técnico
+Departamento de informática - Developer and IT Support
 https://ancasrl.com.ar
-2016- 2019
-+ Programacion y mantenimiento web (Full Stack).
-+ Administración de configuraciones, mantenimiento y reportes a través
-de base de datos.
+2016- 2019. Santa Fe, Santa Fe, Argentina.
+
++ Desarrollo y mantenimiento web.
++ Administración de configuraciones, mantenimiento y generación de reportes.
 + Help Desk.
 + Web Scraping.
 ```
 
 #### EMSER Empresa de Servicios S.A
 ```php
-Departamento de informática - Lider de Implementación
+EMSER EMPRESA DE SERVICIOS S.A
+Departamento de informática - Implementation leader
 http://www.emser.net
-2008 - 2013
-+ Ingeniería de preventa.
+2008 - 2015. Santa Fe, Santa Fe, Argentina.
+
++ Análisis funcional
 + Relevamiento de requerimientos.
 + Diseño de customizaciones.
 + Testing.
 + Instalación y configuración.
 + Diseño y ejecución de capacitaciones.
-+ Soporte técnico de postventa.
++ Soporte técnico de post-venta.
+```
+
+#### RAUL TORRES HOGAR
+```php
+Empleado de comercio. Soporte técnico informático
+2003 - 2008. Santa Fe, Santa Fe, Argentina.
+
++ Gestión de compras.
++ Mantenimiento de infraestructura informática.
++ Ensamblado, reparación y configuración de PC.
++ Servicio técnico y asesoramiento a clientes.
++ Tareas administrativas.
++ Venta al público.
+
 ```
 
 ---
 
 ### HOBBIES
 + Música.
-+ Viajes.
-+ Pasear en bicicleta.
-+ Horticultura y Floricultura.
++ Viajes y paseos naturales.
++ Paseos en bicicleta.
++ Bailar.
++ Cultivo de plantas.
 
 ---
 
@@ -155,4 +158,4 @@ Fe).
 
 ### INGLES
 * Español - Nativo
-* Inglés - Básico
+* Inglés - Intermedio
