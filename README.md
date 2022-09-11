@@ -1,4 +1,5 @@
-### PERFIL PROFESIONAL
+
+### PERFIL PROFESIONAL (https://www.linkedin.com/in/luciano-dlf/)
 
 Desde hace aproximadamente 11 años comparto mi trabajo y pasión en relación al mundo IT. Inicie mis primeros años, como implementador de sistemas en el territorio Argentino.
 
