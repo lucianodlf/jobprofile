@@ -1,9 +1,13 @@
 ### PERFIL PROFESIONAL
 
 Desde hace aproximadamente 11 años comparto mi trabajo y pasión en relación al mundo IT. Inicie mis primeros años, como implementador de sistemas en el territorio Argentino.
+
 Complete mi formación como Analista de Sistemas Informáticos y con el tiempo he adquirido experiencia como software developer, mayormente backend y en menor medida frontend. También realice actividades como help desk, análisis funcional, testing, ETL, coordinación de implementaciones y capacitaciones.
+
 Me considero una persona responsable, curiosa, perseverante, autodidacta y creativa. Prefiero trabajar de forma organizada y proactiva.
+
 Prefiero trabajar en equipo para enriquecer mi conocimiento y experiencia. Como también mantener mi motivación con nuevos desafíos. 
+
 Me gusta estar en constante aprendizaje y experimentación. 
 
 
