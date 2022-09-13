@@ -32,7 +32,7 @@ public function getPersonalInfo($name)
 ---
 
 ### CONOCIMIENTOS Y HABILIDADES
-* HTML5, CSS, PHP, JavaScript, NodeJS, Java, Javascript.
+* HTML5, CSS, PHP, NodeJS, Java, Javascript.
 * Frameworks Codeigniter, Express, Laravel, Bootstrap, W3.CSS
 * SQL, MySQL, phpMyAdmin, PostgreSQL, SQLite, Firebird, MongoDB.
 * Git.
