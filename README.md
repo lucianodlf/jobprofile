@@ -189,19 +189,22 @@ Skills: Sistemas operativos · Resolución de incidencias · Servicio de atenci�
 
 <br>
 
-<h3 align="center">CAPACITACIÓN COMPLEMENTARIA</3>
-**Testing QA Manual/Ágil - Universidad Tecnológica Nacional (UTN) -  COMPLETADO ✅**
-https://www.argentina.gob.ar/sites/default/files/15._utn_-_testing.pdf
+<h3 align="center">CAPACITACIÓN COMPLEMENTARIA</h3>
 
 <br>
 
-**Getting Started with Google Cloud Learning Path (Cloud Skills Boost) - En proceso …**
-https://www.cloudskillsboost.google/journeys/8
+#### Testing QA Manual/Ágil - Universidad Tecnológica Nacional (UTN) -  COMPLETADO ✅
++ https://www.argentina.gob.ar/sites/default/files/15._utn_-_testing.pdf
 
 <br>
 
-**Google IT Automation with Python Specialization (Coursera)  -  COMPLETADO ✅**
-https://www.coursera.org/account/accomplishments/specialization/certificate/D2Q5FR4KF6CC
+#### Getting Started with Google Cloud Learning Path (Cloud Skills Boost) - En proceso …
++ https://www.cloudskillsboost.google/journeys/8
+
+<br>
+
+#### Google IT Automation with Python Specialization (Coursera)  -  COMPLETADO ✅
++ https://www.coursera.org/account/accomplishments/specialization/certificate/D2Q5FR4KF6CC
 ```html
 Cursos que lo componen:
 + Crash course on Python
@@ -215,8 +218,8 @@ Cursos que lo componen:
 
 <br>
 
-**Google IT Support Certificate (Coursera) | 2022 | K5ADMKRTAQP6 - COMPLETADO ✅**
-https://www.coursera.org/account/accomplishments/specialization/certificate/K5ADMKRTAQP6
+#### Google IT Support Certificate (Coursera) | 2022 | K5ADMKRTAQP6 - COMPLETADO ✅
++ https://www.coursera.org/account/accomplishments/specialization/certificate/K5ADMKRTAQP6
 ```html
 Certificados del curso completados
 + The Bits and Bytes of Computer Networking
@@ -228,17 +231,17 @@ Certificados del curso completados
 
 <br>
 
-**Diseño y programación WEB | 2009 - COMPLETADO ✅**
-Fundamentos teórico y prácticos de CSS, XHTML, AJAX, JavaScript, PHP, MySQL.
+#### Diseño y programación WEB | 2009 - COMPLETADO ✅
++ Fundamentos teórico y prácticos de CSS, XHTML, AJAX, JavaScript, PHP, MySQL.
 
 <br>
 
-**Análisis y Diseño Orientado a Objetos | 2008 - COMPLETADO ✅**
-Fundamentos de Java, Java Avanzado e Introducción a aplicaciones WEB Java.
+#### Análisis y Diseño Orientado a Objetos | 2008 - COMPLETADO ✅
++ Fundamentos de Java, Java Avanzado e Introducción a aplicaciones WEB Java.
 
 <br>
 
-**Congreso internacional de Innovación Tecnológica Informática:** 
+#### Congreso internacional de Innovación Tecnológica Informática:
 ```
 2008 - Dictado por la Facultad de tecnología informática y el Centro de
 Altos estudios en tecnología informática.
@@ -246,8 +249,7 @@ Altos estudios en tecnología informática.
 
 <br>
 
-**Jornada de extensión de la licenciatura en sistemas de la
-información:** 
+#### Jornada de extensión de la licenciatura en sistemas de la información:
 ```
 2008 - Dictado por la Facultad de Ciencias Económicas y la
 Universidad Católica de Santa Fe.
