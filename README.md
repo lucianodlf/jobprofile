@@ -259,30 +259,39 @@ Universidad Católica de Santa Fe.
 <br>
 
 <h3 align="center">IDIOMAS</h3>
-* Español - Nativo
-* Inglés - Lectura/Escritura: Intermedio | Conversacional: Basico
+
++ Español - Nativo
++ Inglés - Lectura/Escritura: Intermedio | Conversacional: Basico
 
 ---
 
 <br>
 
 <h3 align="center">PROYECTOS</h3>
-**Voluntariado Ecuador - Kuamar | 01/209 - 07/2019 |  Macas, Ecuador**
 
+#### Voluntariado Ecuador - Kuamar | 01/209 - 07/2019 |  Macas, Ecuador
+
+```html
 Resumen de Actividades:
 + Voluntariado en conjunto con la Asociación SER brindando soporte técnico y transmisión del conocimiento a la comunidad Kuamar en la amazonía ecuatoriana.
 + Instalación y configuración de PC
 + Enseñanza
 + Soporte informático para procesos de gestión de proyectos.
+```
 
 ---
 
 <br>
 
 <h3 align="center">CONOCIMIENTOS Y HABILIDADES</h3>
-**Hard:** Resolución de problemas, Soporte IT (hardware and software), Sistemas operativos (Windows, Linux), Administración de sistemas, GIT, Gestión de paquetes y software, Fundamentos de redes, Virtualización y asistencia remota, Gestión de bases de datos, Desarrollo de software (PHP, Javascript, Python, JAVA), Arquitectura del software, Node.js, Configuración de servidores web (Apache, Nginx, Implementación de software, Análisis funcional.
 
-**Soft:** Soporte orientado al cliente, Buena dicción y redacción, Buena organización, Buena gestión de relaciones interpersonales, Experiencia en transmisión del conocimiento, Flexibilidad para adaptarse a los cambios, Disposición para trabajar en equipo, Capacidad resolutiva, Autoorganizacion y gestión del tiempo, Pensamiento analitico e innovacion, Aprendizaje activo y estrategias de aprendizaje
+**Hard:** 
+
+Resolución de problemas, Soporte IT (hardware and software), Sistemas operativos (Windows, Linux), Administración de sistemas, GIT, Gestión de paquetes y software, Fundamentos de redes, Virtualización y asistencia remota, Gestión de bases de datos, Desarrollo de software (PHP, Javascript, Python, JAVA), Arquitectura del software, Node.js, Configuración de servidores web (Apache, Nginx, Implementación de software, Análisis funcional.
+
+**Soft:**
+
+Soporte orientado al cliente, Buena dicción y redacción, Buena organización, Buena gestión de relaciones interpersonales, Experiencia en transmisión del conocimiento, Flexibilidad para adaptarse a los cambios, Disposición para trabajar en equipo, Capacidad resolutiva, Autoorganizacion y gestión del tiempo, Pensamiento analitico e innovacion, Aprendizaje activo y estrategias de aprendizaje
 , Pensamiento crítico y análisis, Creatividad, originalidad e iniciativa, Liderazgo y gestión de proyectos, Resiliencia, Comunicación efectiva,Responsabilidad y conciencia socio-ecológica, Inteligencia emocional
 
 ---
@@ -290,6 +299,7 @@ Resumen de Actividades:
 <br>
 
 <h3 align="center">HOBBIES</h3>
+
 + Música.
 + Viajes y paseos naturales.
 + Paseos en bicicleta.
