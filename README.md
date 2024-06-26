@@ -6,15 +6,12 @@
 
 <h3 align="center">PERFIL PROFESIONAL (https://www.linkedin.com/in/lucianodelfino)</h3>
 
-Soy una persona curiosa, creativa y reflexiva, con una gran pasión por el conocimiento y el aprendizaje constante. Mi trayectoria profesional comenzó en el campo IT hace más de 10 años. 
-A lo largo de mi carrera, he trabajado como técnico, implementador y desarrollador de software, siempre buscando nuevos desafíos y aventuras. Viví en Córdoba para asumir el rol de gestión y coordinación de más de 20 implementación de sistemas en el territorio Argentino. Más tarde, me enfoqué en el desarrollo de software con tecnologías web, realizando mantenimiento, mejoras y proyectos desde cero. También tuve la oportunidad de realizar un voluntariado en Ecuador donde brindé apoyo técnico y humano a una comunidad de la Amazonía ecuatoriana.
-
-Además de mi trabajo en informática, me interesa la ecología, la sostenibilidad y la responsabilidad social. Me propongo participar en proyectos que generen un impacto positivo en la sociedad y en el medio ambiente.
-Soy una persona empática y emocional, a la que le gusta aceptar la diversidad y el respeto en todas sus formas. Además, me gusta viajar, andar en bicicleta, improvisar con la música y pasar tiempo en la naturaleza. Encuentro paz en los espacios ordenados y en momentos de silencio y soledad.
-
-Como persona curiosa que experimenta, me siento orgulloso de realizar actividades como construir una bicicleta reclinada con ayuda de muchas personas y viajar con ella desde Argentina a Chile. Fabricar cerveza artesanal, construir un indoor en el cual realizó cultivos actualmente, mantuve una huerta urbana en la puerta de mi casa, salté con paracaídas, practique buceo, realice algunas presentaciones teatrales y participe en un taller popular de ciclomecánica.
-
-En la actualidad, brindo servicios de consultoría, soporte técnico y desarrollo de software a tiempo parcial, trabajo junto a un amigo en su negocio comercial realizando algunas de estas actividades y varias más, mientras continúo profundizando mi aprendizaje en Python, inglés, ML/DL, Testing y algunas cosas más…"
+Hola! soy Luciano. Curioso y creativo, disfruto del aprendizaje constante y la experimentación. Mi trayectoria profesional comenzó en el campo IT hace más de 10 años, en los que he trabajado como técnico, implementador y desarrollador de software, siempre buscando nuevos desafíos y experiencias.
+Gestione más de 20 implementación de sistemas en el territorio Argentino.
+Desarrolle software con tecnologías web, entre otros proyectos de mantenimiento, help desk, IoT, análisis funcional, entre otros.
+No todo es trabajo y profesión, además me interesa la ecología, sostenibilidad, las plantas y los viajes. Disfruto andar en bicicleta, improvisar música y pasar tiempo en la naturaleza.
+Me siento orgulloso de enriquecer mi experiencia humana con algunos proyectos personales que emprendí, cómo construir una bicicleta reclinada y viajar con ella desde Argentina a Chile, hacer un voluntariado en una comunidad de la amazonía ecuatoriana, mantener una huerta urbana en la puerta de mi casa, entre otras cosas.
+En la actualidad, me encuentro desarrollando mi lado emprendedor impulsando un proyecto de innovación social que vincula personas, tecnología y agricultura. Además brindó servicios de asesoramiento y consultoría, soporte técnico y desarrollo de software.
 
 <br>
 
@@ -121,7 +118,7 @@ Links:
 
 <br>
 
-### IMPLEMENTATION LEADER
+### IMPLEMENTATION LEAD
 ```html
 EMSER Empresa de Servicios S.A | http://www.emser.net | 2008 - 2015 | Córdoba, Córdoba, Argentina.
 
@@ -198,7 +195,7 @@ Skills: Sistemas operativos · Resolución de incidencias · Servicio de atenci�
 
 <br>
 
-#### Getting Started with Google Cloud Learning Path (Cloud Skills Boost) - En proceso …
+#### Getting Started with Google Cloud Learning Path (Cloud Skills Boost) - COMPLETADO ✅
 + https://www.cloudskillsboost.google/journeys/8
 
 <br>
@@ -267,9 +264,12 @@ Universidad Católica de Santa Fe.
 
 <br>
 
-<h3 align="center">PROYECTOS</h3>
+<h3 align="center">ALGUNOS PROYECTOS PERSONALES</h3>
 
 #### Voluntariado Ecuador - Kuamar | 01/209 - 07/2019 |  Macas, Ecuador
+
+##### Descripción:
+Voluntariado en conjunto con la Asociación SER brindando soporte técnico y transmisión del conocimiento a la comunidad Kuamar en la amazonía ecuatoriana.
 
 ```html
 Resumen de Actividades:
@@ -278,6 +278,20 @@ Resumen de Actividades:
 + Enseñanza
 + Soporte informático para procesos de gestión de proyectos.
 ```
+
+---
+
+#### Construcción de Bike Recumbent + Viaje Suramericano | 02/2014 - 09/2014  |  Argentina, Chile, Bolivia, Peru
+
+##### Descripción:
+Construí una bike recumbent (bicicleta reclinada) con materiales reciclados y la ayuda de muchas personas, con la que me fui de viaje desde Santa Fe, cruzando la cordillera de los andes por Mendoza, el desierto de Atacama en Chile, atravesando Bolivia y finalizando en Perú.
+
+---
+
+#### Emprendiendo la co-creación de un ecosistema para la replicación y difusión de FarmBot en Argentina.  | Actualidad  |  Santa Fe, Argentina
+
+##### Descripción:
+Proceso en desarrollo para replicar la construcción de un robot CNC utilizado en agricultura de precicion 100% open source llamado FarmBot (https://farm.bot/)
 
 ---
 
